@@ -8,7 +8,7 @@
 
 <br>
 
-*Ambitious and dedicated, having originated in the holding cells of a shadowy facility,<br>
+*Ambitious and dedicated, having originated in the holding cells of a shadowy facility,
 members of the Titanite Bloodline carry an honor handed down by SoulTitan.*
 
 <br>
