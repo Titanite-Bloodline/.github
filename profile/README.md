@@ -18,13 +18,13 @@ members of the Titanite Bloodline carry an honor handed down by SoulTitan.*
 <table>
   <tr>
     <!-- German goes first, as Organisation Leader, once he has a GitHub account: copy a cell below. -->
-    <td align="center" width="220">
+    <td align="center">
       <a href="https://github.com/CaptainBHH"><img src="https://github.com/CaptainBHH.png?size=240" width="120" alt="Ben's profile picture"></a>
       <h3>Ben</h3>
       Head of Innovation<br>
       <sub><a href="https://github.com/CaptainBHH">@CaptainBHH</a></sub>
     </td>
-    <td align="center" width="220">
+    <td align="center">
       <a href="https://github.com/rola2410"><img src="https://github.com/rola2410.png?size=240" width="120" alt="Rolo's profile picture"></a>
       <h3>Rolo</h3>
       Head of Finance<br>
