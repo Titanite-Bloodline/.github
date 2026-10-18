@@ -9,7 +9,7 @@
 
 <br>
 
-## The team
+## The Team
 
 <table>
   <tr>
