@@ -6,10 +6,6 @@
 <a href="https://docs.titanite.family"><img alt="Docs" src="https://img.shields.io/badge/Docs-37377A?style=for-the-badge"></a>
 <a href="https://wiki.titanite.family"><img alt="Wiki" src="https://img.shields.io/badge/Wiki-A82828?style=for-the-badge"></a>
 
-<br>
-
-*Ambitious and dedicated, having originated in the holding cells of a shadowy facility,
-members of the Titanite Bloodline carry an honor handed down by SoulTitan.*
 
 <br>
 
