@@ -20,12 +20,6 @@
       Head of Innovation<br>
       <sub><a href="https://github.com/CaptainBHH">@CaptainBHH</a></sub>
     </td>
-    <td align="center">
-      <a href="https://github.com/rola2410"><img src="https://github.com/rola2410.png?size=240" width="120" alt="Rolo's profile picture"></a>
-      <h3>Rolo</h3>
-      Head of Finance<br>
-      <sub><a href="https://github.com/rola2410">@rola2410</a></sub>
-    </td>
   </tr>
 </table>
 
