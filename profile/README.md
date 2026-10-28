@@ -13,7 +13,12 @@
 
 <table>
   <tr>
-    <!-- German goes first, as Organisation Leader, once he has a GitHub account: copy a cell below. -->
+    <td align="center">
+      <a href="https://github.com/healthygermanguy"><img src="https://github.com/healthygermanguy.png?size=240" width="120" alt="German's profile picture"></a>
+      <h3>German</h3>
+      Organisation Leader<br>
+      <sub><a href="https://github.com/healthygermanguy">@healthygermanguy</a></sub>
+    </td>
     <td align="center">
       <a href="https://github.com/CaptainBHH"><img src="https://github.com/CaptainBHH.png?size=240" width="120" alt="Ben's profile picture"></a>
       <h3>Ben</h3>
