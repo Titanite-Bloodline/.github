@@ -21,7 +21,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/CaptainBHH"><img src="https://github.com/CaptainBHH.png?size=240" width="120" alt="Ben's profile picture"></a>
-      <h3>Ben</h3>
+      <h3>Ardent</h3>
       Head of Innovation<br>
       <sub><a href="https://github.com/CaptainBHH">@CaptainBHH</a></sub>
     </td>
