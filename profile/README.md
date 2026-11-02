@@ -2,9 +2,9 @@
 
 <img src="banner.svg" alt="Titanite Bloodline" width="100%">
 
-<a href="https://titanite.family"><img alt="titanite.family" src="https://img.shields.io/badge/titanite.family-F67722?style=for-the-badge"></a>
-<a href="https://docs.titanite.family"><img alt="Docs" src="https://img.shields.io/badge/Docs-37377A?style=for-the-badge"></a>
-<a href="https://wiki.titanite.family"><img alt="Wiki" src="https://img.shields.io/badge/Wiki-A82828?style=for-the-badge"></a>
+<a href="https://titanite.site"><img alt="titanite.site" src="https://img.shields.io/badge/titanite.site-F67722?style=for-the-badge"></a>
+<a href="https://docs.titanite.site"><img alt="Docs" src="https://img.shields.io/badge/Docs-37377A?style=for-the-badge"></a>
+<a href="https://wiki.titanite.site"><img alt="Wiki" src="https://img.shields.io/badge/Wiki-A82828?style=for-the-badge"></a>
 
 
 <br>
